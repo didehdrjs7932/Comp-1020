@@ -1,0 +1,106 @@
+ISBN,Title,Author,PublicationYear,Genre,Status
+978-754-2824-13-4,Heart of Darkness,Bram Stoker,1835,Classic,Available
+978-704-7912-14-0,Jane Eyre,Mary Shelley,1859,Psychology,Available
+978-674-4257-93-8,The Three Musketeers,Bram Stoker,1914,Science,On Hold
+978-928-1106-30-6,Of Mice and Men,Leo Tolstoy,1839,Romance,On Hold
+978-204-2519-58-1,The Pearl,Stephen Hawking,1888,Science,On Hold
+978-926-1711-68-8,The Odyssey,William Faulkner,1820,Psychology,On Hold
+978-949-6925-83-3,A Brief History of Time,J.D. Salinger,1811,Biography,Checked Out
+978-891-5741-20-3,Wuthering Heights,William Faulkner,1871,Philosophy,On Hold
+978-266-7065-55-3,The Origin of Species,Leo Tolstoy,1979,Biography,Available
+978-723-3803-78-3,Moby-Dick,Toni Morrison,1897,Fantasy,Checked Out
+978-801-6313-17-3,The Catcher in the Rye,Karl Marx,1880,Historical Fiction,On Hold
+978-167-4456-82-5,Lolita,Sun Tzu,1927,Historical Fiction,Lost
+978-246-5339-27-3,Letters from a Stoic,Alexandre Dumas,1867,Science,Lost
+978-697-7543-56-3,Frankenstein,Gustave Flaubert,1926,Classic,Available
+978-981-2796-29-2,The Voyage of the Beagle,Albert Camus,1952,Classic,Lost
+978-490-8668-77-4,Meditations,F. Scott Fitzgerald,1974,Classic,On Hold
+978-887-6573-24-4,The Hunchback of Notre-Dame,Charles Dickens,1916,Fiction,On Hold
+978-612-3927-74-1,The Interpretation of Dreams,Dante Alighieri,2015,Biography,Checked Out
+978-256-7126-30-8,Beyond Good and Evil,F. Scott Fitzgerald,1953,Sci-Fi,Lost
+978-119-2832-56-4,To the Lighthouse,Jane Austen,1861,Science,Available
+978-187-8962-18-8,The Iliad,Charlotte Brontë,1968,Philosophy,Checked Out
+978-371-9645-87-6,Lolita,Alexandre Dumas,1993,Romance,On Hold
+978-508-7118-66-8,Labyrinths,Aldous Huxley,1863,Romance,Available
+978-446-1344-85-8,The Sound and the Fury,Miguel de Cervantes,1856,Fiction,Available
+978-824-1964-39-1,The Catcher in the Rye,John Steinbeck,1818,Psychology,Checked Out
+978-385-8953-37-8,The Iliad,Epictetus,1946,Science,Lost
+978-348-8749-62-3,Wuthering Heights,Ray Bradbury,1968,Historical Fiction,On Hold
+978-533-7735-69-0,The Descent of Man,Sun Tzu,1965,Classic,Available
+978-512-6559-23-3,The Brothers Karamazov,Homer,1937,Philosophy,Checked Out
+978-532-4006-45-7,Heart of Darkness,J.D. Salinger,1913,Psychology,Available
+978-151-9856-11-1,To the Lighthouse,Charles Dickens,1904,Philosophy,Lost
+978-318-7570-17-2,Cannery Row,F. Scott Fitzgerald,1899,Fantasy,Lost
+978-392-7930-99-8,Beyond the Pleasure Principle,Seneca,1924,Dystopian,Checked Out
+978-403-4566-17-9,My Brief History,Alexandre Dumas,1815,Sci-Fi,Available
+978-151-8811-74-8,Moby-Dick,Jane Austen,1930,Classic,Checked Out
+978-170-2113-96-3,Les Misérables,Aldous Huxley,1945,Romance,Available
+978-734-2343-63-9,Discourses,Victor Hugo,1880,Fantasy,Checked Out
+978-785-6147-40-4,Madame Bovary,Charlotte Brontë,1971,Biography,On Hold
+978-568-6180-19-0,The Aleph,Giovanni Boccaccio,1944,Classic,Available
+978-650-4492-74-4,The Iliad,Vladimir Nabokov,1817,Romance,On Hold
+978-391-3584-66-8,A Brief History of Time,Dante Alighieri,1956,Biography,Available
+978-783-5905-94-1,Frankenstein,Herman Melville,1829,Classic,Checked Out
+978-378-5616-87-3,The Universe in a Nutshell,John Steinbeck,1852,Biography,On Hold
+978-617-9004-42-0,Jane Eyre,Niccolò Machiavelli,1908,Fantasy,Available
+978-103-6464-26-4,Moby-Dick,Baruch Spinoza,1913,Psychology,Lost
+978-674-1158-24-1,The Expression of the Emotions,Emily Brontë,1939,Fiction,On Hold
+978-696-3426-65-2,The Hobbit,Dante Alighieri,1893,Fiction,On Hold
+978-315-5088-95-1,The Pearl,Jean-Jacques Rousseau,1943,Historical Fiction,Checked Out
+978-342-3662-32-6,Pride and Prejudice,Fyodor Dostoevsky,1988,Sci-Fi,Lost
+978-921-5065-44-2,Autobiography of Charles Darwin,Ray Bradbury,1897,Fiction,Lost
+978-327-4269-68-5,The Sun Also Rises,Sigmund Freud,2003,Romance,Checked Out
+978-124-4164-61-5,The Trial,J.D. Salinger,1997,Fantasy,On Hold
+978-756-9346-61-8,The Old Man and the Sea,Harper Lee,1829,Fantasy,Checked Out
+978-694-5349-14-1,The Social Contract,Albert Camus,1888,Sci-Fi,Lost
+978-720-9379-24-6,Enchiridion,Homer,1865,Fiction,Lost
+978-101-9518-78-3,The Red Pony,Albert Camus,1817,Biography,On Hold
+978-738-6143-94-1,The Grand Design,Dante Alighieri,1929,Fantasy,Lost
+978-434-7592-99-4,Meditations,Charlotte Brontë,1849,Historical Fiction,Lost
+978-793-3851-88-9,Invisible Man,Virginia Woolf,1940,Fiction,On Hold
+978-393-4443-65-9,The Wealth of Nations,Sun Tzu,1882,Philosophy,Lost
+978-552-4501-75-7,My Brief History,Charles Dickens,1968,Classic,On Hold
+978-627-6491-21-3,The Descent of Man,Dante Alighieri,1857,Romance,Checked Out
+978-125-1757-41-7,Capital,Stephen Hawking,1996,Classic,Lost
+978-524-4185-99-6,The Divine Comedy,Virginia Woolf,1862,Dystopian,Available
+978-868-2746-64-3,Ulysses,Karl Marx,1978,Psychology,Lost
+978-151-5082-25-7,Frankenstein,Karl Marx,1918,Biography,On Hold
+978-873-8251-88-8,Candide,Charles Darwin,1940,Philosophy,Checked Out
+978-861-8777-67-4,Heart of Darkness,Charles Darwin,1963,Fantasy,Lost
+978-741-4919-45-7,The Lord of the Rings,Seneca,1873,Romance,On Hold
+978-443-6238-79-1,Frankenstein,Emily Brontë,1859,Historical Fiction,Checked Out
+978-823-4505-18-6,The Count of Monte Cristo,John Steinbeck,1938,Philosophy,Lost
+978-163-4388-63-6,The Ethics,Marcus Aurelius,1805,Science,Lost
+978-588-1096-55-4,The Wayward Bus,Stephen Hawking,2013,Historical Fiction,Checked Out
+978-599-4595-44-6,The Decameron,Harper Lee,1899,Sci-Fi,Lost
+978-841-3704-69-2,The Communist Manifesto,Alexandre Dumas,1806,Historical Fiction,Available
+978-185-8022-27-7,The Divine Comedy,Jane Austen,1866,Historical Fiction,On Hold
+978-316-8449-51-5,Cannery Row,Leo Tolstoy,1992,Historical Fiction,On Hold
+978-954-2341-70-0,The Antichrist,Jane Austen,1889,Romance,Available
+978-899-1659-13-3,Catch-22,Charles Darwin,1805,Science,Checked Out
+978-344-3068-70-1,Discourses,Mary Shelley,1919,Fantasy,On Hold
+978-271-2876-30-4,Great Expectations,Miguel de Cervantes,1806,Fantasy,Lost
+978-506-4249-19-9,The Expression of the Emotions,Charles Darwin,1960,Romance,Available
+978-813-5941-97-9,The Odyssey,Adam Smith,1944,Fiction,On Hold
+978-645-8018-94-5,Animal Farm,Gustave Flaubert,1965,Sci-Fi,Available
+978-969-7882-72-1,The Hunchback of Notre-Dame,Gabriel García Márquez,1962,Philosophy,Checked Out
+978-545-3885-76-4,Capital,Karl Marx,1937,Philosophy,Lost
+978-546-5397-51-3,Jane Eyre,Leo Tolstoy,1915,Romance,Lost
+978-683-7209-53-0,The Divine Comedy,Stephen Hawking,1883,Dystopian,Lost
+978-317-6813-43-5,The Trial,Geoffrey Chaucer,1979,Fantasy,Available
+978-629-4130-20-3,The Grand Design,Joseph Conrad,1925,Psychology,Checked Out
+978-807-8800-92-7,Labyrinths,Adam Smith,1804,Classic,On Hold
+978-326-7625-98-3,The Sun Also Rises,Plato,1948,Sci-Fi,Lost
+978-666-9698-54-6,Meditations,John Steinbeck,1890,Philosophy,On Hold
+978-413-5118-39-1,The Grand Design,Homer,1880,Classic,Checked Out
+978-296-4545-71-4,The Grand Design,Miguel de Cervantes,1994,Psychology,On Hold
+978-202-4180-47-3,The Red Pony,Fyodor Dostoevsky,1877,Fiction,Checked Out
+978-380-1745-16-8,Beloved,Marcus Aurelius,1832,Biography,Lost
+978-205-1200-83-4,Don Quixote,Ralph Ellison,1912,Sci-Fi,Checked Out
+978-152-5136-71-1,Animal Farm,Virginia Woolf,1925,Classic,Available
+978-255-3444-82-4,The Chronicles of Narnia,Oscar Wilde,1830,Psychology,Lost
+978-720-4697-76-6,Labyrinths,Franz Kafka,1876,Science,Lost
+978-412-1986-88-1,The Grapes of Wrath,Niccolò Machiavelli,1854,Fantasy,Available
+978-260-4929-32-8,The Lord of the Rings,Charles Dickens,1800,Historical Fiction,Lost
+978-805-8699-47-0,The Sound and the Fury,James Joyce,1980,Fantasy,Lost
+978-172-4824-43-9,Beyond the Pleasure Principle,Karl Marx,1850,Historical Fiction,Available

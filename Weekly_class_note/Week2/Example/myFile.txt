@@ -1,0 +1,9 @@
+This is a file.
+It contains some data, do you like data?
+Numbers like 34 or 123214 & even symbols like !
+We can read line by line, word by word, or perhaps use a scanner to parse
+information into numbers.
+I really like this file.
+
+Don't you?!
+
