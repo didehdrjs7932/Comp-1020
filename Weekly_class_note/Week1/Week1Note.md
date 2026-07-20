@@ -733,13 +733,3 @@ x [addr] ──────> Person { name → "Claws", age: 29 }   ← alive
 12. **An object with no references = orphan** → garbage collected
 
 ---
-
-## 📌 Course Announcements (from TA notes)
-
-- Labs: late or partial participation doesn't count. **Be present + complete at least one CodeGrade exercise** for full marks
-- Assignments submitted through CodeGrade — **multiple submissions allowed** (each creates a snapshot you can go back to)
-- Programming standards (changed from Winter 26): **methods should have only ONE point of return** (unless recursion — a topic for later)
-- UMLearn notification app: "Pulse"
-- No textbook, but an interactive workbook is available for practice
-````
-````
